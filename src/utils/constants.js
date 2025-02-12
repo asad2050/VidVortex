@@ -16,7 +16,7 @@ import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
+  // { name: 'JS Mastery', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
@@ -34,9 +34,11 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
+
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
+
+export const demoThumbnailUrl = './thumbnail.jpg';
+export const demoChannelUrl = '/channel/demoChannel123';
+export const demoVideoUrl = '/video/demoVideo456';
+export const demoChannelTitle = 'Demo Channel';
+export const demoVideoTitle = 'Demo Video: Learn React Basics';
