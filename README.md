@@ -15,3 +15,8 @@
   - **Responsive Layout:** Experience a sleek design that adapts seamlessly to various screen sizes.
 
 **VidVortex** combines modern web development practices with robust API integration to deliver a user-friendly platform for video enthusiasts. Whether you’re exploring trending content or diving deep into niche interests, VidVortex offers an engaging and efficient video viewing experience.
+
+
+## 🙌 Acknowledgments  
+
+A huge thanks to [JavaScript Mastery](https://www.jsmastery.pro/) for their amazing tutorials that helped shape **VidVortex**. Their content is a great resource for learning modern web development! 🚀  
